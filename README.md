@@ -1,4 +1,4 @@
 # CLOUDBUDGET
+https://kvitkina.github.io/CLOUDBUDGET/index.html
 ***
-* Не отображаются иконки в секции Technology
-* Не установился шрифт semibold, так как его нет на google fonts
+
